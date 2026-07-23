@@ -1,9 +1,9 @@
-# Qinglai Knowledge Base / 清徕智能知识库
+# Personal Knowledge Base / 个人知识库
 
 Public notes on RAG, Agents, ML basics, evaluation, backend practice, and interview topics.  
 公开查阅的学习笔记：检索增强、智能体、机器学习基础、评估观测、后端实践与面试补强。
 
-仓库地址：https://github.com/kwang-zoed/qinglai-knowledge-base
+仓库地址：https://github.com/kwang-zoed/personal-knowledge-base
 
 ## Reading Order / 推荐阅读顺序
 
